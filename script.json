@@ -1,31 +1,1156 @@
 {
   "ops": [
     {
-      "insert": "someone moves"
-    },
-    {
       "attributes": {
-        "align": "center"
+        "bold": true
       },
-      "insert": "\n"
+      "insert": "spect-actor:"
     },
     {
-      "insert": "here and there and "
+      "insert": " I will break my back for you\n"
     },
     {
       "attributes": {
         "bold": true
       },
-      "insert": "there and there"
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " said the factory worker to his daugher\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " and the daughter replied\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " I will break the rules for you\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "المتفرج:"
+    },
+    {
+      "insert": " سيداتي وسادتي، مساء الخير. مرحبًا بكم على متن الطائرة اللامرئيّة"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "المتفرج:"
+    },
+    {
+      "insert": " أنا الكابتن الذي يسافر بك حول العالم وانت من تختار وجهتك"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "المتفرج:"
+    },
+    {
+      "insert": " وأملك بعض المعلومات عن رحلتنا. سيكون موعد رحلتنا ابتداءً من اليوم"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "المتفرج:"
+    },
+    {
+      "insert": " ووقت وصولنا المقدر إلى وجهتك تختاره بنفسك"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " en halv sætning\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " en verden\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " skåret i stykker\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " af grænser\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " færdiggør denne sætning\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " jeg krydser en grænse og\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "يتنفس المتفرجون بعمق"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "وفي كل زفير تأتي نغمة"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "يدندن الجمهور"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "عالية أو منخفضة كما يريدون"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "للمدة التي يريدونها"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "دقات الموجة الصاخبة التي تهدأ ببطء"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "tilskuerne trækker vejret dybt"
     },
     {
       "insert": "\n"
     },
     {
-      "insert": "hello you are here come one \n"
+      "attributes": {
+        "italic": true
+      },
+      "insert": "på hver udånding kommer en tone"
     },
     {
-      "insert": "you\n"
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "tilskuerne nynner"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "så højt eller lavt de vil"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "så længe de vil"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "høje bølgeslag, der langsomt stilner af"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " du krydser en grænse\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " for at arbejde\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " på Europas fabrikker\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " du forlader dine forældre\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " du forlader dine søskende\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " du forlader dine onkler og tanter\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " du forlader din elskede\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " du forlader dine børn\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " du forlader dine venner\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " du forlader træerne\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " du forlader dyrene\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " du forlader jorden\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " du forlader mig\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " aldrig\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " jeg forlod\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " dig\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " for at studere på Europas universiteter\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " hver dag den samme film\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " som at sidde fast i en drøm\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " du krydser en grænse og\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " ankommer\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " til et nyt land\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " omskriv manuskriptet\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " du krydser en grænse og\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " forsvinder\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "يتنفس المتفرجون بعمق"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "وفي كل زفير تأتي نغمة"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "يدندن الجمهور"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "عالية أو منخفضة كما يريدون"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "للمدة التي يريدونها"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "دقات الموجة الصاخبة التي تهدأ ببطء"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "tilskuerne trækker vejret dybt"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "på hver udånding kommer en tone"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "tilskuerne nynner"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "så højt eller lavt de vil"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "så længe de vil"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "høje bølgeslag, der langsomt stilner af"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " hvad er mit land?\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " hvad er dit land?\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " I\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " am a fragment\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "spect-actor:"
+    },
+    {
+      "insert": " of a we\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " jorden\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " forlader dig\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " aldrig\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " jorden\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " dit ophav\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " jorden\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " dit gravsted\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " jorden\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " et sted hvor nyt liv kan vokse\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "يتنفس المتفرجون بعمق"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "وفي كل زفير تأتي نغمة"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "يدندن الجمهور"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "عالية أو منخفضة كما يريدون"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "للمدة التي يريدونها"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "دقات الموجة الصاخبة التي تهدأ ببطء"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "tilskuerne trækker vejret dybt"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "på hver udånding kommer en tone"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "tilskuerne nynner"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "så højt eller lavt de vil"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "så længe de vil"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "høje bølgeslag, der langsomt stilner af"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " jeg håber tristheden vil forlade dig\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " som en sky\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " der opløses til regn\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " strømmer ned ad bjergsider\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " samles i floder\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " der løber\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " gennem deltaer\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " ud i havet\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " hvorfra den fordamper tilbage op i luften\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " og bliver til skyer\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " der dækker for solen\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " sådan har du fortalt mig om vandets bevægelser\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " hvordan vandet cirkulerer mellem havet\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " himlen\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " og bjerget\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " hvad med tårerne?\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " hvad med\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " havet\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " i\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " os?\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " tiden går\n"
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "tilskuer:"
+    },
+    {
+      "insert": " løber ud i havet\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "يتنفس المتفرجون بعمق"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "وفي كل زفير تأتي نغمة"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "يدندن الجمهور"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "عالية أو منخفضة كما يريدون"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "للمدة التي يريدونها"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "attributes": {
+        "italic": true
+      },
+      "insert": "دقات الموجة الصاخبة التي تهدأ ببطء"
+    },
+    {
+      "attributes": {
+        "align": "right"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "\n"
     }
   ]
 }
