@@ -1,0 +1,28 @@
+{
+  "ops": [
+    {
+      "insert": "someone moves"
+    },
+    {
+      "attributes": {
+        "align": "center"
+      },
+      "insert": "\n"
+    },
+    {
+      "insert": "here and there and "
+    },
+    {
+      "attributes": {
+        "bold": true
+      },
+      "insert": "there and there"
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "insert": "hello you are here come one\n"
+    }
+  ]
+}
